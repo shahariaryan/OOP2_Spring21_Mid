@@ -1,0 +1,2 @@
+C:\Users\EyePatch\source\repos\Lab Task\Lab Task\obj\Debug\Lab Task.csprojAssemblyReference.cache
+C:\Users\EyePatch\source\repos\Lab Task\Lab Task\obj\Debug\Lab Task.csproj.CoreCompileInputs.cache
