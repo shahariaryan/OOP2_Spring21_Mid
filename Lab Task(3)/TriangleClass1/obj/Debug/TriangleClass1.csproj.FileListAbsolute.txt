@@ -1,0 +1,7 @@
+C:\Users\EyePatch\source\repos\Lab Task(3)\TriangleClass1\bin\Debug\TriangleClass1.dll.config
+C:\Users\EyePatch\source\repos\Lab Task(3)\TriangleClass1\bin\Debug\TriangleClass1.dll
+C:\Users\EyePatch\source\repos\Lab Task(3)\TriangleClass1\bin\Debug\TriangleClass1.pdb
+C:\Users\EyePatch\source\repos\Lab Task(3)\TriangleClass1\obj\Debug\TriangleClass1.csprojAssemblyReference.cache
+C:\Users\EyePatch\source\repos\Lab Task(3)\TriangleClass1\obj\Debug\TriangleClass1.csproj.CoreCompileInputs.cache
+C:\Users\EyePatch\source\repos\Lab Task(3)\TriangleClass1\obj\Debug\TriangleClass1.dll
+C:\Users\EyePatch\source\repos\Lab Task(3)\TriangleClass1\obj\Debug\TriangleClass1.pdb
