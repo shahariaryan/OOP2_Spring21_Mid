@@ -1,0 +1,7 @@
+C:\Users\EyePatch\source\repos\Lab Task(3)\Lab Task(3)\obj\Debug\Lab Task(3).csprojAssemblyReference.cache
+C:\Users\EyePatch\source\repos\Lab Task(3)\Lab Task(3)\obj\Debug\Lab Task(3).csproj.CoreCompileInputs.cache
+C:\Users\EyePatch\source\repos\Lab Task(3)\Lab Task(3)\bin\Debug\Lab Task(3).exe.config
+C:\Users\EyePatch\source\repos\Lab Task(3)\Lab Task(3)\bin\Debug\Lab Task(3).exe
+C:\Users\EyePatch\source\repos\Lab Task(3)\Lab Task(3)\bin\Debug\Lab Task(3).pdb
+C:\Users\EyePatch\source\repos\Lab Task(3)\Lab Task(3)\obj\Debug\Lab Task(3).exe
+C:\Users\EyePatch\source\repos\Lab Task(3)\Lab Task(3)\obj\Debug\Lab Task(3).pdb
