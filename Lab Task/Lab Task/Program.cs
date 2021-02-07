@@ -2,24 +2,32 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace EvenNumbers
+namespace CsharpensGists
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Even Numbers :");
-            for (int i = 1; i <= 30; i++)
+            int i=100, 
+                even=0, 
+                odd=0;
+            
+            for (int num=1;num<i;num++)
             {
-                if (i % 2 == 0)
+                if (num% 2==0)
                 {
-                    console.Write(i+" ");
+                    Console.Write("{0}", num);
+                    even = even + num;
+                }
+                else
+                {
+                    Console.WriteLine(" \t {0}", num);
+                    odd = odd + num;
                 }
             }
-
-            Console.WriteLine();
+            Console.WriteLine(" \n sum of all even numbers are : {0} \n sum of all odd numbers are : {1}", even, odd);
+           
         }
     }
 }
