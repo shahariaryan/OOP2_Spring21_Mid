@@ -1,0 +1,7 @@
+D:\STUDY\git\GitC#\labTask4\labTask4\obj\Debug\labTask4.csprojAssemblyReference.cache
+D:\STUDY\git\GitC#\labTask4\labTask4\obj\Debug\labTask4.csproj.CoreCompileInputs.cache
+D:\STUDY\git\GitC#\labTask4\labTask4\bin\Debug\labTask4.exe.config
+D:\STUDY\git\GitC#\labTask4\labTask4\bin\Debug\labTask4.exe
+D:\STUDY\git\GitC#\labTask4\labTask4\bin\Debug\labTask4.pdb
+D:\STUDY\git\GitC#\labTask4\labTask4\obj\Debug\labTask4.exe
+D:\STUDY\git\GitC#\labTask4\labTask4\obj\Debug\labTask4.pdb
