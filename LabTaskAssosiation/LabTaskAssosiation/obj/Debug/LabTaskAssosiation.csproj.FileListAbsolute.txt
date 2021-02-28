@@ -1,0 +1,7 @@
+D:\STUDY\git\GitC#\LabTaskAssosiation\LabTaskAssosiation\bin\Debug\LabTaskAssosiation.exe.config
+D:\STUDY\git\GitC#\LabTaskAssosiation\LabTaskAssosiation\bin\Debug\LabTaskAssosiation.exe
+D:\STUDY\git\GitC#\LabTaskAssosiation\LabTaskAssosiation\bin\Debug\LabTaskAssosiation.pdb
+D:\STUDY\git\GitC#\LabTaskAssosiation\LabTaskAssosiation\obj\Debug\LabTaskAssosiation.csprojAssemblyReference.cache
+D:\STUDY\git\GitC#\LabTaskAssosiation\LabTaskAssosiation\obj\Debug\LabTaskAssosiation.csproj.CoreCompileInputs.cache
+D:\STUDY\git\GitC#\LabTaskAssosiation\LabTaskAssosiation\obj\Debug\LabTaskAssosiation.exe
+D:\STUDY\git\GitC#\LabTaskAssosiation\LabTaskAssosiation\obj\Debug\LabTaskAssosiation.pdb
